@@ -1,4 +1,4 @@
-Encryption = 'Enter_Your_Encrypted_Text_Here'
+Encryption = 'nu%uquB76'
 
 import random
 import string
