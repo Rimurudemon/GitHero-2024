@@ -1,4 +1,1 @@
 Alien - i: <Bivalvan>
-Alien - i: <Galapagus>
-Alien -i: <Andreas>
-Alien -i <Pandor>
